@@ -27,7 +27,7 @@ public:
             int x = (int)ceil((double)size / k);
             ListNode* temp2=head;
             ListNode* prev=NULL;
-            for(int i=0;i<x;i++){
+            for(int i=1;i<=x;i++){
                 prev=head;
                  head=head->next;
             }
