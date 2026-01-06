@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/prince00795/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/prince00795/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/prince00795/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -40,8 +41,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/prince00795/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/prince00795/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/prince00795/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/prince00795/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
