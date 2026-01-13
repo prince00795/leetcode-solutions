@@ -16,14 +16,16 @@ public:
         }
         
         vector<int>ans;
+        int j=0;
         for(int i=0;i<=n-k;i++){
-           
-           int j=i;
-           while(ngi[j]<i+k){ //if nge is inside the window
-            
+             if(j < i) j = i;
+           int mx= arr[j];
+           while(j<i+k){ //if nge is inside the window
+            mx=arr[j];
+            if(ngi[j]>=i+k) break;
             j=ngi[j];
            }
-           ans.push_back(arr[j]);
+           ans.push_back(mx);
         }
         return ans;
     }
