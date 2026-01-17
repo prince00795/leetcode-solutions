@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/prince00795/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/prince00795/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/prince00795/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/prince00795/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/prince00795/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Recursion
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/prince00795/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/prince00795/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/prince00795/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/prince00795/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/prince00795/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prince00795/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/prince00795/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/prince00795/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/prince00795/leetcode-solutions/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/prince00795/leetcode-solutions/tree/master/0622-design-circular-queue) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/prince00795/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
