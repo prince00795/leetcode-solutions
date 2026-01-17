@@ -10,8 +10,7 @@ public:
         b=0;
         c=k;
         s=0;
-        vector<int>v(k);
-        arr=v;
+        arr.resize(k);
     }
     
     bool enQueue(int val) {
