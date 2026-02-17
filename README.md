@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/prince00795/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prince00795/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prince00795/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/prince00795/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/prince00795/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prince00795/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -190,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/prince00795/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prince00795/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince00795/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Math
+|  |
+| ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prince00795/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+## Counting
+|  |
+| ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prince00795/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
