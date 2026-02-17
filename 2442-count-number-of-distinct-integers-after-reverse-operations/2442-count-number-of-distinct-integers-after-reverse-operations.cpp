@@ -4,8 +4,7 @@ public:
         int n=nums.size();
         for(int i=0;i<n;i++){
             string s="";
-            if(nums[i]%10==0)  s=(to_string)(nums[i]/10);
-           else   s=(to_string)(nums[i]);
+            s=(to_string)(nums[i]);
             reverse(s.begin(),s.end());
             nums.push_back(stoi(s));
         }
