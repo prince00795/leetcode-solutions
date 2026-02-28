@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/prince00795/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/prince00795/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/prince00795/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/prince00795/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince00795/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prince00795/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/prince00795/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prince00795/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/prince00795/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/prince00795/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/prince00795/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/prince00795/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince00795/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prince00795/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -210,10 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/prince00795/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prince00795/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
 |  |
 | ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/prince00795/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prince00795/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Enumeration
 |  |
