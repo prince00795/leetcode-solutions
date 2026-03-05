@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prince00795/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/prince00795/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/prince00795/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/prince00795/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/prince00795/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prince00795/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/prince00795/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prince00795/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/prince00795/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/prince00795/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/prince00795/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/prince00795/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/prince00795/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/prince00795/leetcode-solutions/tree/master/0649-dota2-senate) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/prince00795/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/prince00795/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/prince00795/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince00795/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
