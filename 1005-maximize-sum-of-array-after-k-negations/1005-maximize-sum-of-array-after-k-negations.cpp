@@ -9,18 +9,8 @@ public:
         while(k>0){
             int x=pq.top();
             pq.pop();
-            if(x<0) {
-                pq.push(-x);
-                k--;
-            }
-           else{
-                k=k%2;
-                if(k==1) {
-                    pq.push(-x);
-                    k--;
-                }
-                else pq.push(x);
-            }
+            pq.push(-x);
+            k--;
         }
         while(pq.size()>0){
             sum+=pq.top();
