@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/prince00795/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/prince00795/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prince00795/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0781-rabbits-in-forest](https://github.com/prince00795/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/prince00795/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/prince00795/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prince00795/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/prince00795/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prince00795/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/prince00795/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0781-rabbits-in-forest](https://github.com/prince00795/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 | [0881-boats-to-save-people](https://github.com/prince00795/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/prince00795/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/prince00795/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prince00795/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/prince00795/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [0781-rabbits-in-forest](https://github.com/prince00795/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 | [0881-boats-to-save-people](https://github.com/prince00795/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/prince00795/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/prince00795/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0781-rabbits-in-forest](https://github.com/prince00795/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 | [0973-k-closest-points-to-origin](https://github.com/prince00795/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/prince00795/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prince00795/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
