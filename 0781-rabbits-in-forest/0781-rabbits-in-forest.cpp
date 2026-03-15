@@ -11,9 +11,13 @@ public:
              
             if(  x.first>=x.second) count+=1+x.first;
             else{
-                //ceil(a/b)=(a+b-1)/b for int 
-                int y= ceil((x.second+x.first) / (x.first+1));
-                 count+=y*(1+x.first);
+                
+            int groupSize = x.first + 1;
+            int freq = x.second;
+            //ceil(a/b)=(a+b-1)/b for int 
+            int groups = (freq + groupSize - 1) / groupSize;
+
+            count += groups * groupSize;
                 
             }
          }
