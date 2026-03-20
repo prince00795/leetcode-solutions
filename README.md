@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/prince00795/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/prince00795/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0781-rabbits-in-forest](https://github.com/prince00795/leetcode-solutions/tree/master/0781-rabbits-in-forest) |
 | [0973-k-closest-points-to-origin](https://github.com/prince00795/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/prince00795/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0435-non-overlapping-intervals](https://github.com/prince00795/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/prince00795/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince00795/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -347,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/prince00795/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/prince00795/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
