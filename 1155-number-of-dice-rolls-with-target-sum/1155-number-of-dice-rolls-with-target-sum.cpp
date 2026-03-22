@@ -2,7 +2,7 @@
 #define mod 1000000007
 class Solution {
 public:
-   vector<vector<int>>dp ;
+   vector<vector<int>>dp;
     ll helper(int n, int k, int target){
         if (target<0) return 0;
         if(n==0 && target==0) return 1;
