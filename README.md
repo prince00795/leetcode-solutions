@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prince00795/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/prince00795/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/prince00795/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [1143-longest-common-subsequence](https://github.com/prince00795/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/prince00795/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2182-construct-string-with-repeat-limit](https://github.com/prince00795/leetcode-solutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/prince00795/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/prince00795/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince00795/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/prince00795/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/prince00795/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/prince00795/leetcode-solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Memoization
 |  |
