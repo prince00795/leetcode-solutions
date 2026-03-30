@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/prince00795/leetcode-solutions/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/prince00795/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/prince00795/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0688-knight-probability-in-chessboard](https://github.com/prince00795/leetcode-solutions/tree/master/0688-knight-probability-in-chessboard) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince00795/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/prince00795/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/prince00795/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
