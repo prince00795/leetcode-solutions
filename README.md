@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prince00795/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/prince00795/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/prince00795/leetcode-solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/prince00795/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/prince00795/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prince00795/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/prince00795/leetcode-solutions/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/prince00795/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/prince00795/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
