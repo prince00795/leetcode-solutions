@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/prince00795/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/prince00795/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/prince00795/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0208-implement-trie-prefix-tree](https://github.com/prince00795/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/prince00795/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/prince00795/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/prince00795/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/prince00795/leetcode-solutions/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/prince00795/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/prince00795/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/prince00795/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/prince00795/leetcode-solutions/tree/master/0622-design-circular-queue) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/prince00795/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0208-implement-trie-prefix-tree](https://github.com/prince00795/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/prince00795/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/prince00795/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/prince00795/leetcode-solutions/tree/master/0649-dota2-senate) |
@@ -388,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/prince00795/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/prince00795/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prince00795/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/prince00795/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
