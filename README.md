@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prince00795/leetcode-solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/prince00795/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/prince00795/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/prince00795/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/prince00795/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/prince00795/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/prince00795/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prince00795/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/prince00795/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prince00795/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prince00795/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prince00795/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prince00795/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/prince00795/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/prince00795/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/prince00795/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince00795/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/prince00795/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/prince00795/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
