@@ -6,15 +6,26 @@ public:
         b=temp;
     }
     void sortColors(vector<int>& nums) {
-        for(int i=0;i<nums.size()-1;i++){
-                 bool flag=true;
-            for(int j=0;j<nums.size()-1-i;j++){
-                if(nums[j]>nums[j+1]){
-                    swap(nums[j],nums[j+1]);
-                     flag=false;
-                }
+        int n=nums.size();
+        int lo=0;
+        int hi=n-1;
+        int mid=0;
+         while(mid<=hi){
+            if(nums[mid]==0){
+                 swap(nums[lo],nums[mid]);
+                    lo++;
+                    mid++;
+                
             }
-            if(flag==true) break; 
-        }
+            else if(nums[mid]==2){
+                  swap(nums[hi],nums[mid]);
+                    hi--;
+                     
+                
+            }
+            else{
+                mid++;
+            }
+         }
     }
 };
