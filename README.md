@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/prince00795/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prince00795/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/prince00795/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/prince00795/leetcode-solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/prince00795/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prince00795/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/prince00795/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/prince00795/leetcode-solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/prince00795/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1710-maximum-units-on-a-truck](https://github.com/prince00795/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince00795/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/prince00795/leetcode-solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Tree
 |  |
 | ------- |
