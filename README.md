@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prince00795/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/prince00795/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/prince00795/leetcode-solutions/tree/master/2780-minimum-index-of-a-valid-split) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/prince00795/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Monotonic Stack
 |  |
 | ------- |
