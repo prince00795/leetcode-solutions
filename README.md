@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/prince00795/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/prince00795/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [2182-construct-string-with-repeat-limit](https://github.com/prince00795/leetcode-solutions/tree/master/2182-construct-string-with-repeat-limit) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/prince00795/leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/prince00795/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1710-maximum-units-on-a-truck](https://github.com/prince00795/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince00795/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/prince00795/leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/prince00795/leetcode-solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Tree
 |  |
