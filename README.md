@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prince00795/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prince00795/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/prince00795/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1539-kth-missing-positive-number](https://github.com/prince00795/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prince00795/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/prince00795/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/prince00795/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince00795/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prince00795/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prince00795/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/prince00795/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/prince00795/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Math
 |  |
