@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prince00795/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/prince00795/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0234-palindrome-linked-list](https://github.com/prince00795/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/prince00795/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prince00795/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/prince00795/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/prince00795/leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
