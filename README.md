@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prince00795/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/prince00795/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prince00795/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/prince00795/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prince00795/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/prince00795/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/prince00795/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince00795/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prince00795/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/prince00795/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/prince00795/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/prince00795/leetcode-solutions/tree/master/0509-fibonacci-number) |
