@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/prince00795/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prince00795/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/prince00795/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0148-sort-list](https://github.com/prince00795/leetcode-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/prince00795/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/prince00795/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prince00795/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/prince00795/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/prince00795/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/prince00795/leetcode-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/prince00795/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/prince00795/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/prince00795/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/prince00795/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/prince00795/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/prince00795/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/prince00795/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/prince00795/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince00795/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/prince00795/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prince00795/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/prince00795/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/prince00795/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince00795/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/prince00795/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
@@ -465,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prince00795/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/prince00795/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
