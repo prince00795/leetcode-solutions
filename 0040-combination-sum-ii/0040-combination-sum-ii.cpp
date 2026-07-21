@@ -1,27 +1,41 @@
 class Solution {
 public:
-    vector<vector<int>>ans;
-    void f(vector<int>& can, int tar,int idx,vector<int>&subset){
-        if(tar==0){
-            ans.push_back(subset);
+    void f(vector<int>& candidates, int target, vector<int>& ans,
+           int idx, vector<vector<int>>& fans) {
+
+        if (target == 0) {
+            fans.push_back(ans);
             return;
         }
-        if(idx==can.size())return;
-        if(can[idx]<=tar){
-            subset.push_back(can[idx]);
-            f(can,tar-can[idx],idx+1,subset);
-            subset.pop_back();
-        }
-        //avoid
-        int j=idx+1;
-        while(j<can.size() and can[j]==can[j-1])j++;
-        f(can,tar,j,subset);
 
+        for (int i = idx; i < candidates.size(); i++) {
+
+            // Duplicate skip
+            if (i > idx && candidates[i] == candidates[i - 1])
+                continue;
+
+            // Since array is sorted
+            if (candidates[i] > target)
+                break;
+
+            ans.push_back(candidates[i]);
+
+            // Move to next index because one element can be used only once
+            f(candidates, target - candidates[i], ans, i + 1, fans);
+
+            // Backtrack
+            ans.pop_back();
+        }
     }
+
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(),candidates.end());
-        vector<int>subset;
-        f(candidates,target,0,subset);
-        return ans;
+        sort(candidates.begin(), candidates.end());
+
+        vector<vector<int>> fans;
+        vector<int> ans;
+
+        f(candidates, target, ans, 0, fans);
+
+        return fans;
     }
 };
