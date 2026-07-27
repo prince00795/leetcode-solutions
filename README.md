@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prince00795/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/prince00795/leetcode-solutions/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/prince00795/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/prince00795/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince00795/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prince00795/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/prince00795/leetcode-solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/prince00795/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/prince00795/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/prince00795/leetcode-solutions/tree/master/0509-fibonacci-number) |
