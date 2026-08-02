@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/prince00795/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince00795/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/prince00795/leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/prince00795/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/prince00795/leetcode-solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Tree
 |  |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prince00795/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince00795/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prince00795/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/prince00795/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prince00795/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince00795/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prince00795/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/prince00795/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/prince00795/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prince00795/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prince00795/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/prince00795/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
