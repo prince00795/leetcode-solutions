@@ -1,42 +1,35 @@
  
 class Solution {
 public:
-int level(TreeNode* root){
-        if(root==NULL) return 0;
-        return 1+max(level(root->left),level(root->right));
-    }
-
-      void sol(TreeNode* root,int currlev,int reqlev,vector<int>&ans){
-        if(root==NULL) return ;
-        if(currlev==reqlev){
-            ans.push_back(root->val);
-            return;
-        }
-
-       if(reqlev%2==0){
-        sol(root->right,currlev+1,reqlev,ans);
-         sol(root->left,currlev+1,reqlev,ans);
-        
-       }
-       else{
-         sol(root->left,currlev+1,reqlev,ans);
-         sol(root->right,currlev+1,reqlev,ans);
-       }
-
-    }
-
-
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        int n=level(root);
-         vector<vector<int>>fans;
-       
-         for(int i=1;i<=n;i++){
+ 
+        vector<vector<int>>fians;
+        if(root==NULL) return fians;
+        queue<TreeNode*>q;
+        q.push(root);
+        bool revers = false;
+        while(q.size()>0){
             vector<int>ans;
-            sol(root,1,i,ans);
-            fans.push_back(ans);
+            int s=q.size();
+            for(int i=0;i<s;i++){
+                TreeNode* temp=q.front();
+                q.pop();
+                ans.push_back(temp->val);
+               if(temp->left!=NULL) q.push(temp->left);
+                if(temp->right!=NULL) q.push(temp->right);
+            }
+            if(revers==true){
+                reverse(ans.begin(),ans.end());
+                revers=false;
+                fians.push_back(ans);
+            }
+            else {
+                fians.push_back(ans);
+                revers=true;
+            }
+
              
         }
-
-        return fans;
+        return fians;
     }
 };
