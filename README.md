@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/prince00795/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/prince00795/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/prince00795/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1861-rotating-the-box](https://github.com/prince00795/leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prince00795/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prince00795/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prince00795/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/prince00795/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/prince00795/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/prince00795/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1861-rotating-the-box](https://github.com/prince00795/leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/prince00795/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2094-finding-3-digit-even-numbers](https://github.com/prince00795/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prince00795/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/prince00795/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/prince00795/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prince00795/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [1861-rotating-the-box](https://github.com/prince00795/leetcode-solutions/tree/master/1861-rotating-the-box) |
 ## Trie
 |  |
 | ------- |
