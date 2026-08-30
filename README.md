@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/prince00795/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/prince00795/leetcode-solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3046-split-the-array](https://github.com/prince00795/leetcode-solutions/tree/master/3046-split-the-array) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/prince00795/leetcode-solutions/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/prince00795/leetcode-solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3046-split-the-array](https://github.com/prince00795/leetcode-solutions/tree/master/3046-split-the-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/prince00795/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/prince00795/leetcode-solutions/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/prince00795/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prince00795/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3046-split-the-array](https://github.com/prince00795/leetcode-solutions/tree/master/3046-split-the-array) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/prince00795/leetcode-solutions/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/prince00795/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prince00795/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [1861-rotating-the-box](https://github.com/prince00795/leetcode-solutions/tree/master/1861-rotating-the-box) |
+| [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/prince00795/leetcode-solutions/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Trie
 |  |
 | ------- |
