@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/prince00795/leetcode-solutions/tree/master/3046-split-the-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/prince00795/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/prince00795/leetcode-solutions/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prince00795/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/prince00795/leetcode-solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/prince00795/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prince00795/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prince00795/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Counting
 |  |
 | ------- |
