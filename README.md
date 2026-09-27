@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/prince00795/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/prince00795/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prince00795/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prince00795/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/prince00795/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/prince00795/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Recursion
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/prince00795/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/prince00795/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [1143-longest-common-subsequence](https://github.com/prince00795/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prince00795/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/prince00795/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prince00795/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2182-construct-string-with-repeat-limit](https://github.com/prince00795/leetcode-solutions/tree/master/2182-construct-string-with-repeat-limit) |
@@ -564,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prince00795/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prince00795/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
