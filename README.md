@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prince00795/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince00795/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prince00795/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prince00795/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/prince00795/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/prince00795/leetcode-solutions/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prince00795/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prince00795/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prince00795/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prince00795/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/prince00795/leetcode-solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prince00795/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/prince00795/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [1861-rotating-the-box](https://github.com/prince00795/leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/prince00795/leetcode-solutions/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prince00795/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
@@ -560,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prince00795/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prince00795/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Merge Sort
 |  |
 | ------- |
